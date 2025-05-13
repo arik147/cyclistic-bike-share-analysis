@@ -50,12 +50,10 @@ Exploratory Data Analysis (EDA) revealed key differences between user types:
 
 - **Ride Length**  
   Casual riders take longer rides on average compared to members.
-  ![image](https://github.com/user-attachments/assets/923040da-3a33-4ac3-bf93-1471bf1fc292)
 
 
 - **Day of the Week**  
   Members ride more consistently on weekdays, while casual riders are more active on weekends.
-  ![image](https://github.com/user-attachments/assets/e2c7270b-1a7f-4ff4-beba-35d1a0c26183)
 
 
 - **Ride Patterns**  
@@ -63,8 +61,14 @@ Exploratory Data Analysis (EDA) revealed key differences between user types:
 
 Visualizations were created using `ggplot2`, including:
 - Histogram of ride lengths by user type
+  ![image](https://github.com/user-attachments/assets/923040da-3a33-4ac3-bf93-1471bf1fc292)
+  
 - Bar chart of rides per weekday
+  ![image](https://github.com/user-attachments/assets/e2c7270b-1a7f-4ff4-beba-35d1a0c26183)
+  
 - Comparison of average ride length on weekends vs weekdays
+  ![image](https://github.com/user-attachments/assets/3a330b88-9b97-47be-9650-39bec7446349)
+
 
 ---
 
