@@ -50,9 +50,13 @@ Exploratory Data Analysis (EDA) revealed key differences between user types:
 
 - **Ride Length**  
   Casual riders take longer rides on average compared to members.
+  ![image](https://github.com/user-attachments/assets/923040da-3a33-4ac3-bf93-1471bf1fc292)
+
 
 - **Day of the Week**  
   Members ride more consistently on weekdays, while casual riders are more active on weekends.
+  ![image](https://github.com/user-attachments/assets/e2c7270b-1a7f-4ff4-beba-35d1a0c26183)
+
 
 - **Ride Patterns**  
   Casual users tend to use bikes more for recreation, while members use them for commuting.
